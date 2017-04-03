@@ -233,6 +233,6 @@ Object.defineProperty(SDT.dropErrorMsg, 'dataDropError', {
 * Add animations to add / remove elements
 * After the above goal is almos achieved, release SDT to npm
 
-## known bug & compatibility issues
+## Known bug & compatibility issues
 * Failed in IE as well as in EDGE
 * Icons can not draged in nSafari, only the text part could work
