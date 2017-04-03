@@ -1,6 +1,6 @@
 <img src="mov.gif">
 
-## About what is SDT.
+## What is SDT.
 
 SDT is an abbreviation for SVG Drag Tree,it's a front-end components that you could Simply drag and drop the SVG icon to generate a view with the tree structure and the corresponding data. The component doesn't depend on any other library or framework while leaving the user with  great freedom in the pattern. Therefore, the example does not represent its final style (for example, the connection can be set to a straight line). The file size of .min.js is about 13kb.
 
